@@ -3468,4 +3468,6 @@ input, select, textarea {
 	.map_box {
 		margin: 0 auto 3em auto;
 		width: 100%;
+		background: white;
+		color: black;
 	}
