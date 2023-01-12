@@ -3466,3 +3466,8 @@ input, select, textarea {
 		color: #cac8ca;
 		margin: 0 0 4em 0;
 	}
+	
+	.map_box {
+		margin: 0 auto 3em auto;
+		width: 100%;
+	}
