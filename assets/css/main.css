@@ -1,11 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
 @import url("fontawesome-all.min.css");
 
-/*
-	Helios by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -3395,10 +3390,10 @@ input, select, textarea {
 	}
 
 	.donation_box {
-		width: 83%;
-		background: white;
+		width: 63%;
+		background: #cac8ca;
 		padding: 0 0 1em 0;
-		margin: 3em 0 0 0;
+		margin: 3em 0 0 10em;
 		overflow: hidden;
 		border-radius: 10px;
 		-webkit-border-radius: 10px;
@@ -3413,6 +3408,7 @@ input, select, textarea {
 		-moz-transition: 1s;
 		-ms-transition: 1s;
 		-o-transition: 1s;
+		cursor: pointer;
 }
 
 	.donation_box:hover {
@@ -3432,6 +3428,7 @@ input, select, textarea {
 			text-align: center;
 			font-size: 20px;
 			font-weight: bold;
+			cursor: pointer;
 		}
 
 	.donaters_box {
@@ -3464,9 +3461,10 @@ input, select, textarea {
 		text-align: center;
 		font-size: 30px;
 		color: #cac8ca;
-		margin: 0 0 4em 0;
+		margin: 0 3em 4em 3em;
+		cursor: default;
 	}
-	
+
 	.map_box {
 		margin: 0 auto 3em auto;
 		width: 100%;
