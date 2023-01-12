@@ -3469,3 +3469,7 @@ input, select, textarea {
 		margin: 0 auto 3em auto;
 		width: 100%;
 	}
+
+	.fbcom_box {
+		background: white;
+	}
